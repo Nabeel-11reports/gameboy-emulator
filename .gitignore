@@ -1,0 +1,17 @@
+# Build outputs
+gameboy
+gameboy.exe
+*.o
+*.d
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local ROMs and runtime artifacts
+*.gb
+*.gbc
+*.sav
+*.log
